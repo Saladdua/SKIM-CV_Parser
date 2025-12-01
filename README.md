@@ -7,7 +7,7 @@
 [Download](#download) ✦ [Features](#features) ✦ [Use Cases](#use-cases) ✦ [How to Install](#installation-for-developers) ✦ [License](#license)
 
 **System for Knowledge Identification & Management.**
-A powerful desktop application designed to streamline the process of extracting structured data from unstructured documents (PDF, DOCX) and seamlessly uploading it to Google Sheets[cite: 289].
+A powerful desktop application designed to streamline the process of extracting structured data from unstructured documents (PDF, DOCX) and seamlessly uploading it to Google Sheets.
 
 SKIM is specifically optimized for **Recruitment** workflows, featuring intelligent candidate filtering based on Job Descriptions (JD).
 
@@ -30,7 +30,7 @@ SKIM is specifically optimized for **Recruitment** workflows, featuring intellig
 
 SKIM is built to make data extraction effortless and efficient. Here are the key capabilities:
 
--   **🧠 Agentic Document Extraction (ADE):** Utilizes LandingAI's sophisticated AI to "read" and understand documents like a human, extracting information based on your defined schema[cite: 292].
+-   **🧠 Agentic Document Extraction (ADE):** Utilizes LandingAI's sophisticated AI to "read" and understand documents like a human, extracting information based on your defined schema.
 -   **🎯 Smart Candidate Filtering:**
     -   Automatically filters out CVs that do not meet Job Description (JD) requirements.
     -   Supports filtering by: **Years of Experience** (Min/Max) and **University** (Preferred/Excluded).
